@@ -7,7 +7,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+<<<<<<< HEAD
           <h1 className="App-title">Welcome to React</h1>
+=======
+          <h1 className="App-title">Ski Resorts</h1>
+>>>>>>> header
         </header>
       </div>
     );
