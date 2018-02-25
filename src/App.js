@@ -1,5 +1,7 @@
+
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import SkiResorts from './components/SkiResorts';
 import './App.css';
 
 class App extends Component {
@@ -13,6 +15,7 @@ class App extends Component {
           <h1 className="App-title">Ski Resorts</h1>
 >>>>>>> header
         </header>
+        <SkiResorts/>
       </div>
     );
   }
